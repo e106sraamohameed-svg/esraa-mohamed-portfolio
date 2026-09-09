@@ -38,9 +38,13 @@ My projects are currently in progress and will be added to this portfolio as I c
 
 My goal is to build a strong career as a **Data Engineer** and continuously improve my skills in data processing, databases, Python, SQL, and cloud technologies.
 
-## 📫 Contact
+## 📫 Contact 
 
-**LinkedIn:** [Add your LinkedIn profile here]
+**LinkedIn:** 
+
+www.linkedin.com/in/esraa-mohamed-kh
+
+
 
 **Email:** [e106sraamohameed@gmail.com](mailto:e106sraamohameed@gmail.com)
 
